@@ -1,0 +1,37 @@
+﻿ID_Venta,Fecha,Region,Canal,Producto,Unidades,Precio_Unitario,Descuento_Pct,Ingreso_Registrado
+V001,2026-09-04,Sur,Tienda,Teclado,8,70000,5,532000.0
+V002,2026-09-07,Centro,Distribuidor,Monitor,6,110000,10,594000.0
+V003,2026-09-10,Norte,Web,Mouse,4,85000,15,289000.0
+V004,2026-09-13,Sur,Tienda,Audífonos,2,45000,0,90000.0
+V005,2026-09-16,Centro,Distribuidor,Teclado,9,70000,5,598500.0
+V006,2026-09-19,Norte,Web,Monitor,7,110000,10,693000.0
+V007,2026-09-22,Sur,Tienda,Mouse,5,85000,15,361250.0
+V008,2026-09-25,Centro,Distribuidor,Audífonos,3,45000,0,135000.0
+V009,2026-09-28, norte ,Web,Teclado,1,70000,5,66500.0
+V010,2026-09-01,Sur,Tienda,Monitor,8,110000,10,792000.0
+V011,2026-09-04,Centro,Distribuidor,Mouse,6,85000,15,433500.0
+V012,2026-09-07,Norte,Web,Audífonos,4,45000,0,180000.0
+V013,2026-09-10,Sur,Tienda,Teclado,2,70000,5,133000.0
+V014,2026-09-13,Centro,Distribuidor,Monitor,9,110000,10,891000.0
+V015,2026-09-16,Norte,Web,Mouse,7,85000,15,505750.0
+V016,2026-09-19,Sur,Tienda,Audífonos,5,45000,0,225000.0
+V017,2026-09-22,Centro,Distribuidor,Teclado,3,70000,5,199500.0
+V018,2026-09-25,Norte,Web,Monitor,1,110000,10,99000.0
+V019,2026-09-28,Sur,Tienda,Mouse,8,85000,15,578000.0
+V020,2026-09-01,Centro,Distribuidor,Audífonos,6,45000,0,295000.0
+V021,2026-09-04,Norte,Web,Teclado,4,70000,5,266000.0
+V022,2026-09-07,Sur,Tienda,Monitor,2,110000,10,198000.0
+V023,2026-09-10,Centro,Distribuidor,Mouse,9,85000,15,650250.0
+V024,2026-09-13,Norte,Web,Audífonos,7,45000,0,315000.0
+V025,2026-09-16,Sur,Tienda,Teclado,5,70000,5,332500.0
+V026,2026-09-19,Centro,Distribuidor,Monitor,3,110000,10,297000.0
+V027,2026-09-22,Norte,Web,Mouse,1,85000,15,72250.0
+V028,2026-09-25,Sur,web ,Audífonos,8,45000,0,360000.0
+V029,2026-09-28,Centro,Distribuidor,Teclado,6,70000,5,399000.0
+V030,2026-09-01,Norte,Web,Monitor,4,110000,10,396000.0
+V031,2026-09-04,Sur,Tienda,Mouse,2,85000,15,144500.0
+V032,2026-09-07,Centro,Distribuidor,Audífonos,9,45000,0,405000.0
+V033,2026-09-10,Norte,Web,Teclado,7,70000,5,465500.0
+V034,2026-09-13,Sur,Tienda,Monitor,5,110000,10,495000.0
+V035,2026-09-16,Centro,Distribuidor,Mouse,3,85000,15,216750.0
+V036,2026-09-19,Norte,Web,Audífonos,1,45000,0,45000.0
