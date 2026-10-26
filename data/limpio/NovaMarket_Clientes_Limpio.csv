@@ -1,0 +1,37 @@
+ID_Cliente,Segmento,Ciudad,Compras_90d,Gasto_90d_COP,Dias_Ultima_Compra,Categoria
+C001,Frecuente,Medellín,6.0,480000.0,11,Alto valor
+C002,Corporativo,Cali,3.0,105000.0,22,Otros
+C003,Nuevo,Bogotá,8.0,640000.0,33,Alto valor
+C004,Frecuente,Medellín,5.0,175000.0,44,Otros
+C005,Corporativo,Cali,2.0,160000.0,55,Otros
+C006,Nuevo,Bogotá,7.0,245000.0,66,En seguimiento
+C007,Frecuente,Medellín,4.0,320000.0,77,Alto valor
+C008,Corporativo,Cali,1.0,35000.0,88,En seguimiento
+C009,Nuevo,Bogotá,6.0,480000.0,8,Alto valor
+C010,Frecuente,Medellín,3.0,105000.0,19,Otros
+C011,Corporativo,Bogotá,8.0,640000.0,30,Alto valor
+C012,Nuevo,Bogotá,5.0,175000.0,41,Otros
+C013,Frecuente,Medellín,2.0,160000.0,52,Otros
+C014,Corporativo,Cali,7.0,245000.0,63,En seguimiento
+C015,Nuevo,Bogotá,4.0,320000.0,74,Alto valor
+C016,Frecuente,Medellín,1.0,35000.0,85,En seguimiento
+C017,Corporativo,Cali,6.0,480000.0,5,Alto valor
+C018,Nuevo,Bogotá,3.0,105000.0,16,Otros
+C019,Frecuente,Medellín,8.0,640000.0,27,Alto valor
+C020,Corporativo,Cali,5.0,175000.0,38,Otros
+C021,Nuevo,Bogotá,2.0,,49,No clasificable
+C022,Frecuente,Medellín,7.0,245000.0,60,Otros
+C023,Corporativo,Cali,4.0,320000.0,71,Alto valor
+C024,Nuevo,Bogotá,1.0,35000.0,82,En seguimiento
+C025,Frecuente,Medellín,6.0,480000.0,2,Alto valor
+C026,Corporativo,Cali,3.0,105000.0,13,Otros
+C027,Nuevo,Bogotá,8.0,640000.0,24,Alto valor
+C028,Frecuente,Medellín,5.0,175000.0,35,Otros
+C029,Corporativo,Cali,2.0,160000.0,46,Otros
+C030,Nuevo,Bogotá,7.0,245000.0,57,Otros
+C031,Frecuente,Medellín,4.0,320000.0,68,Alto valor
+C032,Corporativo,Cali,,35000.0,79,No clasificable
+C033,Nuevo,Bogotá,6.0,480000.0,90,Alto valor
+C034,Frecuente,Medellín,3.0,105000.0,10,Otros
+C035,Corporativo,Cali,8.0,640000.0,21,Alto valor
+C036,Nuevo,Bogotá,5.0,175000.0,32,Otros
