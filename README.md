@@ -104,6 +104,6 @@ Python · pandas · NumPy · matplotlib · Jupyter · Power BI Desktop · Power 
 
 ## Autor
 
-Daniel · Ingeniería de Sistemas, Universidad EAN (Bogotá, Colombia)
+Daniel Felipe Mahecha Peña· Ingeniería de Sistemas, Universidad EAN (Bogotá, Colombia)
 
 > Los conjuntos de datos fueron suministrados por el curso con fines académicos.
